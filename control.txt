@@ -1,4 +1,3 @@
-STATUS=OFF
-EXPIRY=1893456000000
+EXPIRE=OFF
 DOWNLOAD=ON
-URL=https://raw.githubusercontent.com/Max-cpu-cmd/Apk.file/master/module.bin
+URL=https://raw.githubusercontent.com/Max-cpu-cmd/Apk.file/main/module.bin
