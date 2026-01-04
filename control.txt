@@ -1,4 +1,4 @@
 STATUS=ON
 EXPIRY=1893456000000
 DOWNLOAD=ON
-URL=https://raw.githubusercontent.com/Max-cpu-cmd/Apk.file/main/module.bin
+URL=https://raw.githubusercontent.com/Max-cpu-cmd/Apk.file/master/module.bin
